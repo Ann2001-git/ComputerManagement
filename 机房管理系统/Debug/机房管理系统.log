@@ -1,0 +1,10 @@
+﻿  main.cpp
+  Manager.cpp
+  OrderFile.cpp
+  Student.cpp
+D:\未来教育\practice\机房管理系统\机房管理系统\Student.cpp(89,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\未来教育\practice\机房管理系统\机房管理系统\Student.cpp(263,29): warning C4018: “<=”: 有符号/无符号不匹配
+  Teacher.cpp
+D:\未来教育\practice\机房管理系统\机房管理系统\Teacher.cpp(114,29): warning C4018: “<=”: 有符号/无符号不匹配
+  正在生成代码...
+  机房管理系统.vcxproj -> D:\未来教育\practice\机房管理系统\Debug\机房管理系统.exe
